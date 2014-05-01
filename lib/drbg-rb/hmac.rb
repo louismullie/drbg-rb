@@ -1,4 +1,4 @@
-module DRBG::HMAC
+class DRBG::HMAC
 
   def initialize(entropy, sec_level=256, personalization_string="")
   
