@@ -1,5 +1,5 @@
 $:.push File.expand_path('../lib', __FILE__)
-require 'drbg/version'
+require 'drbg-rb/version'
 
 Gem::Specification.new do |s|
   
