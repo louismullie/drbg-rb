@@ -4,7 +4,7 @@ This gem implements cryptographically secure deterministic random bit generators
 
 ### Warning
 
-_If you are looking for a generic Ruby CSRPNG, this is probably not what you are looking for. Instead, use [SecureRandom](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/securerandom/rdoc/SecureRandom.html). Only use this library if you absolutely need a random number generator that is explicitly seedable. If you don't know what this means, **do not** use this library._
+_This library should not be considered cryptographically secure. If you are looking for a generic Ruby CSRPNG, this is probably not what you are looking for. Instead, use [SecureRandom](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/securerandom/rdoc/SecureRandom.html). Only use this library if you absolutely need a random number generator that is explicitly seedable. If you don't know what this means, **do not** use this library._
 
 ### Install
 
